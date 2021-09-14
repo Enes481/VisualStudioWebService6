@@ -1,0 +1,2 @@
+C:\Users\enest\source\repos\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.AssemblyReference.cache
+C:\Users\enest\source\repos\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CoreCompileInputs.cache
